@@ -59,3 +59,16 @@ The project applies standard fixed-income and term-structure tools:
 - Duration as a first-order approximation of price sensitivity to interest rate changes.
 
 All formulas and calculations are documented in the accompanying notebook/script.
+
+Interpretation of Results
+
+The final section of the analysis discusses:
+
+The present value of a long-maturity zero-coupon bond under a flat 5% yield curve.
+
+How the Vasicek term structure changes the price by incorporating
+mean reversion and rate volatility.
+
+The Macaulay and modified duration of the coupon bond, and how
+these measures indicate the approximate percentage price change following a
+1% increase or decrease in market interest rates.
